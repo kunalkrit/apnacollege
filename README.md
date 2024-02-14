@@ -1,4 +1,4 @@
 # apnacollege
 This is our second repo.
 <br>
-Author - Kunal Krit
+Author - Kunal Krit ( Apna College)
